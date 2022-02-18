@@ -1,6 +1,0 @@
-framework module Pods_TestForLetMeCode {
-  umbrella header "Pods-TestForLetMeCode-umbrella.h"
-
-  export *
-  module * { export * }
-}
